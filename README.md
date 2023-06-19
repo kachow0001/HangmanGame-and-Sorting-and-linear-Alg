@@ -33,3 +33,4 @@ v.	Here it is divided into three-part, first part retains the substring until th
 6.	INCORRECT GUESS, INCREMENT COUNT OF HANGMAN TRIES:
 i.	If the user guess is incorrect, then the total count must decrement (def =7)
 ii.	Then for each incorrect guess, hangman_display [wrong_count] must be printed.
+<img width="432" alt="image" src="https://github.com/kachow0001/HangmanGame/assets/24617401/7c1e5bf4-6790-44ed-817d-00cc7cbf65e7">
